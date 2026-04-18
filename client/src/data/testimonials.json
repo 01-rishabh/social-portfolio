@@ -1,0 +1,46 @@
+[
+  {
+    "id": "t1",
+    "author": "Akanksha Priya",
+    "role": "Senior Associate",
+    "organization": "LawSikho & Skill Arbitrage",
+    "quote": "Rudresh is an absolute all-rounder and a strong team leader. He approaches everything in a very systematic manner, has complete clarity on what he is doing, and guides the team with precision and transparency.",
+    "order": 1
+  },
+  {
+    "id": "t2",
+    "author": "Dr. Garima Bhayana",
+    "role": "What after Why. How before When.",
+    "quote": "Rudresh is a remarkable blend of curiosity, intelligence, and human warmth. His versatile awareness and sharp networking skills enable him to spot and seize possibilities across digital marketing and personal branding with both strategy and heart.",
+    "order": 2
+  },
+  {
+    "id": "t3",
+    "author": "Vibhas Sen",
+    "role": "Building House of Kraft | Independent Board Director | IIMC Alumni",
+    "quote": "Rudresh has consistently demonstrated a high level of professionalism, dedication, and enthusiasm. His strength is to collaborate and work as part of a team in a 350+ remote organisation, instrumental in delivering successful projects on time and within budget.",
+    "order": 3
+  },
+  {
+    "id": "t4",
+    "author": "Tuba Beg",
+    "role": "Marketing & Ops",
+    "organization": "LawSikho",
+    "quote": "An absolutely excellent person to work with. Rudresh is cordial, polite and oriented. He values efficiency and creativity, is a person of procedure and yet someone who can work around problems and make the best out of the situation.",
+    "order": 4
+  },
+  {
+    "id": "t5",
+    "author": "Dipti Sawant",
+    "role": "Advocate & Legal Consultant",
+    "quote": "You are phenomenally talented and crazy ambitious — this deadly combination will grant you guaranteed success. It is a treat watching you grow!",
+    "order": 5
+  },
+  {
+    "id": "t6",
+    "author": "Rajeev Manchanda",
+    "role": "Mentor & Industry Advisor",
+    "quote": "This is a great blend of your passion and profession that only few can achieve.",
+    "order": 6
+  }
+]

@@ -1,0 +1,9 @@
+[
+  { "id": "tl1", "year": "2018", "title": "DSPIFF Award — Main Diya", "description": "Film producer & actor; first major festival win.", "tags": ["Film"], "order": 1 },
+  { "id": "tl2", "year": "2021", "title": "LawSikho + iPleaders", "description": "Marketing roles across two EdTech brands.", "tags": ["EdTech", "Marketing"], "order": 2 },
+  { "id": "tl3", "year": "2022", "title": "Project Manager — Skill Arbitrage", "description": "Cross-functional execution lead.", "tags": ["Operations"], "order": 3 },
+  { "id": "tl4", "year": "2024", "title": "Deputy Marketing Director", "description": "Owned full-funnel across LawSikho + Skill Arbitrage. Second DSPIFF recognition.", "tags": ["Leadership", "Film"], "order": 4 },
+  { "id": "tl5", "year": "2025", "title": "GJU Retailers Summit", "description": "Keynote speaker on growth systems.", "tags": ["Speaking"], "order": 5 },
+  { "id": "tl6", "year": "Apr 2026", "title": "Chief Growth Officer — Passion Cheese", "description": "Joined as CGO to lead growth & D2C.", "tags": ["Growth", "D2C"], "order": 6 },
+  { "id": "tl7", "year": "2026", "title": "Independent Consulting", "description": "Transitioned to independent growth & creative consulting.", "tags": ["Consulting"], "order": 7 }
+]

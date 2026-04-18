@@ -1,0 +1,7 @@
+[
+  { "id": "m1", "label": "Revenue Generated", "value": "250", "suffix": "Cr+", "order": 1 },
+  { "id": "m2", "label": "Funnel Growth", "value": "16", "suffix": "x", "order": 2 },
+  { "id": "m3", "label": "Monthly Ad Spend", "value": "2", "suffix": "Cr+", "order": 3 },
+  { "id": "m4", "label": "Campaigns Shipped", "value": "120", "suffix": "+", "order": 4 },
+  { "id": "m5", "label": "Years in Marketing", "value": "5", "suffix": "+", "order": 5 }
+]

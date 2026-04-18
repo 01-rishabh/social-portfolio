@@ -1,0 +1,62 @@
+[
+  {
+    "id": "s1",
+    "title": "Growth Partner / Fractional Operator Retainer",
+    "tagline": "Embedded growth ownership",
+    "icon": "bolt",
+    "description": "Embedded in your team as a hands-on growth partner. I own the roadmap, run sprints, and drive results.",
+    "deliverables": ["30/60/90 day roadmap", "Sprint planning", "Experiment pipeline", "KPI dashboards"],
+    "tags": ["Retainer", "Fractional", "Growth"],
+    "order": 1
+  },
+  {
+    "id": "s2",
+    "title": "Funnel & Consumer Lifecycle Build",
+    "tagline": "Acquisition to retention, mapped end-to-end",
+    "icon": "funnel",
+    "description": "End-to-end funnel architecture from acquisition to retention — mapped, instrumented, and optimized.",
+    "deliverables": ["Journey mapping", "Lifecycle messaging", "Segmentation", "Measurement planning"],
+    "tags": ["Funnel", "Lifecycle", "CRM"],
+    "order": 2
+  },
+  {
+    "id": "s3",
+    "title": "WhatsApp Marketing & Automation",
+    "tagline": "Revenue engine, not a broadcast channel",
+    "icon": "chat",
+    "description": "WhatsApp as a revenue and ops engine — not just a broadcast channel.",
+    "deliverables": ["Template strategy", "Automation flows", "Ops setup", "Compliance management"],
+    "tags": ["WhatsApp", "Automation", "Ops"],
+    "order": 3
+  },
+  {
+    "id": "s4",
+    "title": "New Initiative Launch Sprint (0 to 1)",
+    "tagline": "Concept to shipped, with outcomes",
+    "icon": "rocket",
+    "description": "Transform concepts into shipped initiatives with measurable outcomes.",
+    "deliverables": ["Brief development", "MVP scope", "GTM plan", "Launch execution", "Cohort analysis"],
+    "tags": ["0-to-1", "Launch", "GTM"],
+    "order": 4
+  },
+  {
+    "id": "s5",
+    "title": "Creative Production",
+    "tagline": "Brief to final cut",
+    "icon": "film",
+    "description": "From brief to final cut — shoot planning, direction, and post-production for retail, consumer, and brand content.",
+    "deliverables": ["Shoot planning", "On-ground coordination", "Post-production", "Portfolio packaging"],
+    "tags": ["Film", "Brand", "Creative"],
+    "order": 5
+  },
+  {
+    "id": "s6",
+    "title": "Workshops, Advisory & AI Transformation",
+    "tagline": "AI audits, training, playbooks",
+    "icon": "spark",
+    "description": "Structured workshops covering AI audits, implementation, team training, and strategic playbooks.",
+    "deliverables": ["AI audit", "Team training", "Implementation roadmap", "Playbooks"],
+    "tags": ["Workshop", "AI", "Advisory"],
+    "order": 6
+  }
+]

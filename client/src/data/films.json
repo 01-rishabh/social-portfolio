@@ -1,0 +1,46 @@
+[
+  {
+    "id": "f1",
+    "title": "Kaandi: The Devil Within",
+    "kind": "film",
+    "year": 2024,
+    "role": "Producer & Lead Actor",
+    "synopsis": "A psychological short exploring the shadows we carry within. Recognized with an Honorable Jury Mention at DSPIFF 2024.",
+    "awards": ["DSPIFF 2024 Honorable Jury Mention"],
+    "youtubeUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "tags": ["Short Film", "Drama"],
+    "order": 1
+  },
+  {
+    "id": "f2",
+    "title": "Main Diya",
+    "kind": "film",
+    "year": 2018,
+    "role": "Producer",
+    "synopsis": "An award-winning short film about light, resilience, and women empowerment.",
+    "awards": ["DSPIFF 2018 Award"],
+    "tags": ["Short Film", "Social"],
+    "order": 2
+  },
+  {
+    "id": "f3",
+    "title": "Featured Talk — LawSikho",
+    "kind": "talk",
+    "year": 2024,
+    "role": "Speaker",
+    "synopsis": "A featured talk on building growth systems inside EdTech.",
+    "youtubeUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "tags": ["Talk", "Growth"],
+    "order": 3
+  },
+  {
+    "id": "f4",
+    "title": "City Dialogues",
+    "kind": "podcast",
+    "year": 2025,
+    "role": "Host",
+    "synopsis": "Conversations with founders, creators, and community builders from tier-2 cities.",
+    "tags": ["Podcast", "Founders"],
+    "order": 4
+  }
+]

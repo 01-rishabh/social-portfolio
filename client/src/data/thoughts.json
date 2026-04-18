@@ -1,0 +1,42 @@
+[
+  {
+    "id": "th1",
+    "title": "How we scaled revenue 16x in 18 months",
+    "slug": "scaled-revenue-16x",
+    "excerpt": "A candid breakdown of the lifecycle, WhatsApp, and funnel experiments that compounded into 16x revenue growth.",
+    "body": "Long-form breakdown coming soon. Key pillars: lifecycle rigor, channel-native creative, and weekly experiment cadence.",
+    "tags": ["Growth", "Lifecycle", "Case Study"],
+    "readTime": "6 min",
+    "publishedAt": "2025-11-02"
+  },
+  {
+    "id": "th2",
+    "title": "WhatsApp as a revenue engine",
+    "slug": "whatsapp-revenue-engine",
+    "excerpt": "Stop treating WhatsApp like a broadcast channel. Treat it like a CRM with superpowers.",
+    "body": "Automation flows, segmentation, and template strategy that turned WhatsApp into a top-3 revenue channel.",
+    "tags": ["WhatsApp", "Automation"],
+    "readTime": "5 min",
+    "publishedAt": "2026-01-18"
+  },
+  {
+    "id": "th3",
+    "title": "AI-first operating style",
+    "slug": "ai-first-operating-style",
+    "excerpt": "Not about using AI tools. About rebuilding how your team operates with AI as the default interface.",
+    "body": "My playbook for embedding AI into research, creative work, and automation without losing quality.",
+    "tags": ["AI", "Operations"],
+    "readTime": "7 min",
+    "publishedAt": "2026-03-05"
+  },
+  {
+    "id": "th4",
+    "title": "Going independent: week one reflections",
+    "slug": "going-independent-week-one",
+    "excerpt": "What I learned in the first seven days of shifting from operator to consultant.",
+    "body": "The tradeoffs, the unexpected wins, and the questions I had to answer for myself.",
+    "tags": ["Consulting", "Career"],
+    "readTime": "4 min",
+    "publishedAt": "2026-04-01"
+  }
+]

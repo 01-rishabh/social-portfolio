@@ -1,0 +1,93 @@
+[
+  {
+    "id": "v1",
+    "name": "Dusk N Dawn Entertainment",
+    "role": "Co-Founder, Producer & Lead Actor",
+    "period": "2017 — Present",
+    "category": "active",
+    "description": "An organisation focused on production of short films, plays, song videos and events that spread awareness and positivity.",
+    "outcomes": [
+      "DSPIFF 2024 Honorable Jury Mention for \"Kaandi: The Devil Within\"",
+      "DSPIFF 2018 Award for \"Main Diya\""
+    ],
+    "tags": ["Film", "Production", "Storytelling"],
+    "links": [
+      { "label": "YouTube", "url": "https://youtube.com" },
+      { "label": "Instagram", "url": "https://instagram.com" }
+    ],
+    "order": 1
+  },
+  {
+    "id": "v2",
+    "name": "Passion Cheese",
+    "role": "Chief Growth Officer",
+    "period": "Apr 2026 — Present",
+    "category": "active",
+    "description": "Premium gourmet cheese brand operating in the Indian market — building e-commerce and distribution channels.",
+    "outcomes": ["Growth-focused operations", "D2C channel architecture"],
+    "tags": ["Growth", "D2C", "FMCG"],
+    "website": "https://passioncheese.in",
+    "order": 2
+  },
+  {
+    "id": "v3",
+    "name": "Independent Consulting",
+    "role": "Growth Partner & Operator",
+    "period": "2026 — Present",
+    "category": "active",
+    "description": "Growth systems, new initiatives, and AI-first execution across funnels, lifecycle, and creative production.",
+    "tags": ["Consulting", "AI-First", "0-to-1"],
+    "order": 3
+  },
+  {
+    "id": "v4",
+    "name": "LawSikho + Skill Arbitrage",
+    "role": "Deputy Marketing Director",
+    "period": "2024",
+    "category": "past",
+    "description": "Full-funnel ownership from acquisition to retention across both brands.",
+    "outcomes": ["16x revenue growth", "2Cr+ monthly ad spend"],
+    "tags": ["EdTech", "Growth", "Lifecycle"],
+    "order": 4
+  },
+  {
+    "id": "v5",
+    "name": "Skill Arbitrage",
+    "role": "Project Manager",
+    "period": "2022",
+    "category": "past",
+    "description": "Led cross-functional execution across marketing and product.",
+    "tags": ["EdTech", "Operations"],
+    "order": 5
+  },
+  {
+    "id": "v6",
+    "name": "iPleaders",
+    "role": "Marketing Manager",
+    "period": "2021",
+    "category": "past",
+    "description": "Lifecycle + funnel ownership.",
+    "tags": ["EdTech", "Lifecycle"],
+    "order": 6
+  },
+  {
+    "id": "v7",
+    "name": "LawSikho",
+    "role": "Marketing Consultant",
+    "period": "2021",
+    "category": "past",
+    "description": "Acquisition-side consulting.",
+    "tags": ["EdTech", "Acquisition"],
+    "order": 7
+  },
+  {
+    "id": "v8",
+    "name": "BAG Ventures LLP",
+    "role": "Mentor",
+    "period": "2024 — Present",
+    "category": "advisory",
+    "description": "Founder mentorship on growth strategy, marketing systems, and GTM execution.",
+    "tags": ["Advisory", "Mentorship"],
+    "order": 8
+  }
+]

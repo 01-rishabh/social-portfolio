@@ -1,0 +1,50 @@
+[
+  {
+    "id": "g1",
+    "title": "GJU Retailers Summit",
+    "caption": "Keynote on growth systems in tier-2 retail",
+    "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1200",
+    "category": "speaking",
+    "order": 1
+  },
+  {
+    "id": "g2",
+    "title": "DSPIFF Awards",
+    "caption": "Team photo after Kaandi: The Devil Within jury mention",
+    "imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200",
+    "category": "film",
+    "order": 2
+  },
+  {
+    "id": "g3",
+    "title": "Portrait",
+    "caption": "Studio portrait",
+    "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=1200",
+    "category": "portrait",
+    "order": 3
+  },
+  {
+    "id": "g4",
+    "title": "On Set",
+    "caption": "Shoot day for a brand film",
+    "imageUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1200",
+    "category": "film",
+    "order": 4
+  },
+  {
+    "id": "g5",
+    "title": "Team Offsite",
+    "caption": "Strategy retreat with the marketing team",
+    "imageUrl": "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200",
+    "category": "team",
+    "order": 5
+  },
+  {
+    "id": "g6",
+    "title": "Podcast Studio",
+    "caption": "City Dialogues recording",
+    "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1200",
+    "category": "podcast",
+    "order": 6
+  }
+]
