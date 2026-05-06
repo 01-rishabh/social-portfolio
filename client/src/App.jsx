@@ -9,6 +9,7 @@ import Films from './pages/Films.jsx';
 import Thoughts from './pages/Thoughts.jsx';
 import Gallery from './pages/Gallery.jsx';
 import Contact from './pages/Contact.jsx';
+import Palettes from './pages/Palettes.jsx';
 import NotFound from './pages/NotFound.jsx';
 
 export default function App() {
@@ -25,6 +26,7 @@ export default function App() {
           <Route path="/thoughts" element={<Thoughts />} />
           <Route path="/gallery" element={<Gallery />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/palettes" element={<Palettes />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
